@@ -1,0 +1,42 @@
+# ==========================================
+# Atlas - Multi-Agent Web Research Engine
+# ==========================================
+
+# Core LangChain / LangGraph ecosystem
+langchain>=1.0,<2.0
+langchain-core>=1.0,<2.0
+langchain-community>=0.4,<1.0
+langchain-ollama>=1.0,<2.0
+langgraph>=1.0,<2.0
+
+# Streamlit
+streamlit
+
+# ==========================================
+# LLM / Search
+# ==========================================
+
+# Tavily web search
+tavily-python
+
+# ==========================================
+# Web scraping
+# ==========================================
+
+beautifulsoup4
+readability-lxml
+trafilatura
+requests
+lxml
+
+# ==========================================
+# Environment variables
+# ==========================================
+
+python-dotenv
+
+# ==========================================
+# Logging / debugging
+# ==========================================
+
+rich
